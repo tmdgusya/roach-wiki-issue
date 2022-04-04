@@ -17,3 +17,10 @@
 
 <img width="1268" alt="image" src="https://user-images.githubusercontent.com/57784077/160998718-15de4565-eec5-41ec-9780-82ff2f8e10dd.png">
 
+## 글 내용은 아래 CATEGORY.MD 에서 확인 가능합니다.
+
+https://github.com/tmdgusya/roach-wiki-issue/blob/main/CATEGORY.MD
+
+바로 이동하시려면 아래 링크를 눌러주시면 됩니다.
+
+[로치 위키로 이동](http://roach-wiki.com/doku.php?id=start)
